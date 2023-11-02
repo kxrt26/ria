@@ -1,0 +1,110 @@
+<h1>HAPPY BIRTHDAY RIA</h1>
+    <P>HAPPY BIRTHDAY TO MY FAVOURITE GIRL IN THE WHOLE WORLD. I KNOW THODA CRINGE HO GAYA BUT STILL IT IS WHAT IT IS. </P>
+    <div class="past">
+        <h3>Lets go back to the time when it all began..... back to 3rd novembar 2005 </h3>
+    </div>
+    <div class="met">
+        <h3>Our story</h3>
+        <ul>
+            <li>We met in 2019 or 2020 I guess, I dont really remember.</li>
+            <li>So I followed you randomly on instagram and you followed me back.</li>
+            <li>You were the 1st one to text tho.</li>
+            <li>We talked for a bit you even called me once or twice but i deleted my instagram and we drifted apart </li>
+            <li></li>
+        </ul>
+    </div>
+    <div class="precious">
+        <h3>Why are you so important to me</h3>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div class="memories">
+        <h3>Our best moments....</h3>
+        <h4>btw ever moment with you is precious..... cringe again?</h4>
+    </div>
+    <div class="voice">
+        <h1>Your beautiful voice</h1>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+
+        </ul>
+    </div>
+    
+     <!-- <div class="content"> 
+                
+                <table align="center"  class="collage"   style="padding-top: 40%;">
+                    <tr>
+                        <td>
+                            <div class="frame1">
+                                <img src="r1.jpg" alt="" height="150" >
+                            </div>
+                        </td>
+                        <td>
+                            <div class="frame1">
+                                <img src="r2.jpg" alt="" height="150" >
+                            </div>
+                        </td>
+                        <td>
+                            <div class="frame1">
+                                <img src="r3.jpg" alt="" height="150">
+                            </div>
+                        </td>
+                        <td>
+                            <div class="frame1">
+                                <img src="r4.jpg" alt="" height="150">
+                            </div>
+                        </td><td>
+                            <div class="frame1">
+                                <img src="r5.jpg" alt="" height="150">
+                            </div>
+                        </td><td>
+                            <div class="frame1">
+                                <img src="r6.jpg" alt="" height="150">
+                            </div>
+                        </td>
+                        
+                
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div class="frame1">
+                                <img src="r7.jpg" alt="" height="150" width="">
+                            </div>
+                        </td>
+                        <td>
+                            <div class="frame1">
+                                <img src="r8.jpg" alt="" height="150">
+                            </div>
+                        </td>
+                        <td>
+                            <div class="frame1">
+                                <img src="r9.jpg" alt="" height="150" width="">
+                            </div>
+                        </td>
+                        <td>
+                            <div class="frame1">
+                                <img src="r10.jpg" alt="" height="150" width="">
+                            </div>
+                        </td>
+                        <td>
+                            <div class="frame1">
+                                <img src="r11.jpg" alt="" height="150" width="">
+                            </div>
+                        </td>
+                        <td>
+                            <div class="frame1">
+                                <img src="r12.jpg" alt="" height="150" width="">
+                            </div>
+                        </td>
+                    </tr>
+                    
+                    
+                </table>
+            </div> 
+  -->

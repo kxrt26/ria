@@ -1,0 +1,16 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image:url(met.jpg);
+    background-size: cover;
+    background-position: center;
+    image-rendering: smooth;
+}
+p{
+    background-color: bisque;
+    opacity: 0.5;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    
+}

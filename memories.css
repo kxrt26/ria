@@ -1,0 +1,28 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image:url(mem.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+h1,h3{
+    text-align: center;
+    color: rgba(187, 11, 196, 0.845);
+    font-family: 'Love Light';font-size: 40px;
+}
+.list dl dd{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.6;
+    color: rgb(246, 255, 0);
+    
+}
+.list dl dt{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.6;
+    color: aqua;
+}
